@@ -8,3 +8,4 @@
 # ツール一覧
 
 - [Visual Studio Code](VisualStudioCode/)
+- [Editor Config](EditorConfig)
