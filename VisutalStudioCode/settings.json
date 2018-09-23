@@ -1,0 +1,13 @@
+{
+    // カラーテーマを背景色が明るい色のものへ変更する
+    "workbench.colorTheme": "Visual Studio Light",
+
+    // フォント サイズをピクセル単位で制御します。
+    "editor.fontSize": 12,
+
+    // 有効な場合、ファイルを開くときに文字セット エンコードを推測します。言語ごとに構成することも可能です。
+    "files.autoGuessEncoding": true
+
+    // ファイル作成時のデフォルト改行コード
+    "files.eol": "\n"
+}
